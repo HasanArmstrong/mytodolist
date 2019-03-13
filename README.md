@@ -12,7 +12,7 @@ Here's a walkthrough of implemented user stories.
 
 
 
-<img src='http://recordit.co/MnoInLxH3I' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/MnoInLxH3I.gif' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
 
 
 ## User Stories
