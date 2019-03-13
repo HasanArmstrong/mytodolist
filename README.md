@@ -11,9 +11,9 @@ A list generator that allows users to save and delete list items.
 Here's a walkthrough of implemented user stories.
 
 
-```
+
 <img src='http://recordit.co/MnoInLxH3I' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-```
+
 
 ## User Stories
 
